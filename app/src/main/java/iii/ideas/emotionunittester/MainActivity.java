@@ -23,7 +23,7 @@ import org.json.JSONObject;
 import java.util.HashMap;
 
 import sdk.ideas.common.Logs;
-import com.iii.more.emotion.EmotionHandler;
+import com.iii.more.EmotionHandler;
 
 public class MainActivity extends AppCompatActivity
 {
