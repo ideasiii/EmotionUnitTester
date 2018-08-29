@@ -1,0 +1,19 @@
+<manifest package="com.edgecase.moduleservice"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          >
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+
+
+        android:supportsRtl="true">
+
+        <service
+            android:name="DetectorService"
+            android:enabled="true"
+            android:exported="true"/>
+
+    </application>
+
+</manifest>

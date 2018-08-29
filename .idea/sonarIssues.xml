@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/Widget/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/app/src/main/java/com/iii/more/emotion/interrupt/FaceEmotionInterruptHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/app/src/main/java/com/iii/more/game/parktour/CameraActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/app/src/main/java/com/iii/more/init/activity/InitActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/app/src/main/java/com/iii/more/main/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/app/src/main/java/com/iii/more/setting/utils/TinyDB.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/cyberon-creader/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/doll-sensors/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/com/iii/more/emotion/EmotionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/common/ArrayListUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/common/BaseHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/common/CommonClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/common/IOFileHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/common/ResponseCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/emotion/EmotionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/ArrayListUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/BaseHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/BaseReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/Common.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/CommonClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/CtrlType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/Device.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/DeviceInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/GenerateUUID.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/IOFileHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/ListenReceiverAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/Logs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/OnCallbackResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/PermissionTable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/Protocol.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/ResponseCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/ReturnIntentAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/StringUtility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/Type.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/URLDownloader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Desktop/III_MORE_DEMO/moduleservice/src/main/java/sdk/ideas/common/Utility.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/androidstudioworkspace/HelloJni/app/src/main/cpp/native-lib.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/iii/ideas/emotionunittester/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/moduleservice/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/moduleservice/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/moduleservice/src/main/java/com/iii/more/EmotionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
